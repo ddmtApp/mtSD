@@ -23,4 +23,10 @@ This method work on class 'InfoOfUser'.
     - 'backBank' - object with params only for this class.
     - 'fieldsbox' - object with inputs or select html elements.
     - 'self.validationGo()' - function. Main function, which starts the test
-    
+    - 'backBank.showAlert()' - function. Show alert when validation is ok
+    - 'backBank.standardValid()' - function. Standard validation (min/max letters, empty)
+    - 'backBank.validText()' - function. Validation text
+    - 'backBank.validNumber()' - function. Validation number (only numbers and other)
+    - 'backBank.validEmail()' - function. Validation email ('@', '.com')
+    - 'backBank.getText()' - function. Get text from fields 'at this moment'
+    - 'backBank.getAllFields()' - function. Find fields with special id (named of objects should be the same as id in html)
