@@ -19,8 +19,8 @@ This method work on class 'InfoOfUser'.
 1) After loaded page (event 'DOMContentLoaded') function create new object (line 152)
 2) Line 153-197 we added parametrs. All named should be the same as id in html input/select
 3) On line 9 we have this class. Content:
-    1) 'self' - object with params of status field. Will be returned
-    2) 'backBank' - object with params only for this class.
-    3) 'fieldsbox' - object with inputs or select html elements.
-    4) 'self.validationGo()' - function. Main function, which starts the test
+    - 'self' - object with params of status field. Will be returned
+    - 'backBank' - object with params only for this class.
+    - 'fieldsbox' - object with inputs or select html elements.
+    - 'self.validationGo()' - function. Main function, which starts the test
     
