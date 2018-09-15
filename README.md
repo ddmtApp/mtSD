@@ -6,6 +6,8 @@ Hi Snowdog user! I am Max and this is my finished recruitment test with comments
 In this task, I wanted to show initiative and I complicated this task technically (only JS). Added 'class' constructor. I could create simple function click to get a value from the input fields and check them for validity (get 'validation' from stackoverflow answer). 
 Or use special plugins (jQuery Validation and others). But, in this task, I create my validation. It's not super good example but works. The list of functions that you see below, code also. All work based on vanilla js. Without plugins.
 
+Just pull/download and run 'gulp serve'.
+
 Html in file: app/submodel.html https://github.com/ddmtApp/mtSD/blob/master/app/submodule.html
 
 Css in file: app/styles/mtMain.css https://github.com/ddmtApp/mtSD/blob/master/app/styles/mtMain.css
@@ -37,5 +39,6 @@ This method work on class 'InfoOfUser'.
     - 'backBank.getText()' - function. Get text from fields 'at this moment'
     - 'backBank.getAllFields()' - function. Find fields with special id (named of objects should be the same as id in html)
     
-
 ![alt text](http://i.piccy.info/i9/68345f17b87134485c6381ada98e33be/1537022450/291448/1269508/vcvcvccv.jpg)
+
+Thank you for the assignment. I'm waiting for a feedback
