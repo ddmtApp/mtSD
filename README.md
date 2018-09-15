@@ -41,4 +41,4 @@ This method work on class 'InfoOfUser'.
     
 ![alt text](http://i.piccy.info/i9/68345f17b87134485c6381ada98e33be/1537022450/291448/1269508/vcvcvccv.jpg)
 
-Thank you for the assignment. I'm waiting for a feedback
+Thank you for the assignment. I'm waiting for a feedback. dmaxtsymbal@gmail.com
