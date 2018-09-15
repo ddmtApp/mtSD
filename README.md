@@ -32,3 +32,6 @@ This method work on class 'InfoOfUser'.
     - 'backBank.validEmail()' - function. Validation email ('@', '.com')
     - 'backBank.getText()' - function. Get text from fields 'at this moment'
     - 'backBank.getAllFields()' - function. Find fields with special id (named of objects should be the same as id in html)
+    
+
+![alt text](http://i.piccy.info/i9/68345f17b87134485c6381ada98e33be/1537022450/291448/1269508/vcvcvccv.jpg)
