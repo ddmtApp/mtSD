@@ -2,9 +2,11 @@
 
 Hi Snowdog user! I am Max and this is my finished recruitment test with comments. 
 
-Html in file: app/submodel.html
-Css in file: app/styles/mtMain.css
-Js in file: app/scripts/mtMain.js
+Html in file: app/submodel.html https://github.com/ddmtApp/mtSD/blob/master/app/submodule.html
+
+Css in file: app/styles/mtMain.css https://github.com/ddmtApp/mtSD/blob/master/app/styles/mtMain.css
+
+Js in file: app/scripts/mtMain.js https://github.com/ddmtApp/mtSD/blob/master/app/scripts/mtMain.js
 
 Task 1.
 Function for this task: moreBacon()
