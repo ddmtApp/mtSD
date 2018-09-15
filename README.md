@@ -4,7 +4,7 @@ Hi Snowdog user! I am Max and this is my finished recruitment test with comments
 
 
 In this task, I wanted to show initiative and I complicated this task technically (only JS). Added 'class' constructor. I could create simple function click to get a value from the input fields and check them for validity (get 'validation' from stackoverflow answer). 
-Or use special plugins (jQuery Validation and others). But, in this task, I create my validation. It's not super good example but works. The list of functions that you see below, code also.
+Or use special plugins (jQuery Validation and others). But, in this task, I create my validation. It's not super good example but works. The list of functions that you see below, code also. All work based on vanilla js. Without plugins.
 
 Html in file: app/submodel.html https://github.com/ddmtApp/mtSD/blob/master/app/submodule.html
 
